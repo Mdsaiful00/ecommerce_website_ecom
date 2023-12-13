@@ -1,0 +1,89 @@
+.admin_form{
+  margin-top: 100px;
+  background-color: #E3E6F3;
+  box-shadow: 0px 1px 10px rgb(200, 200, 255);
+  padding: 40px;
+}
+
+.admin_form h3 {
+  background: #374157;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+  border-radius: 50px;
+}
+
+.admin_login{
+  background-image: url('../img/b10.jpg');
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.login_btn{
+  background: #374157;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 22px;
+}
+
+.from_label{
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.from_input{
+  border-radius: 22px;
+}
+
+.sidebar {
+
+  background: #ff5656 !important;
+}
+
+.sidebar-dark .nav-item .nav-link {
+  color: #fff;
+  padding: 10px 15px !important;
+}
+
+.sidebar {
+  background-color: #282760 !important;
+}
+
+.dashboard_card h3{
+  font-weight: 700;
+  font-size: 22px;
+  color: #00ffec;
+}
+.dashboard_card_body {
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.dashboard_card_value h4{
+  font-weight: 900;
+  color: #ffff;
+}
+
+.border-left-primary {
+ border-left: 0px !important;
+}
+
+.dashboard_top_card{
+background-color: #282760;
+}
+
+.card-header {
+    background: #282760;
+}
+
+.card-header span {
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+table#dataTable tbody tr td a {
+  color: #ffff;
+  background: #282760;
+}
